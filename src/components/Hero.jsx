@@ -5,7 +5,7 @@ import { styles } from "../styles";
 import { SectionWrapper } from "../hoc";
 import ParticlesContainer from "./ParticlesContainer";
 import { Avatar, useMediaQuery } from "@mui/material";
-import Profile from "../assets/Men3.jpg"; // or .png
+import Profile from "../assets/srukanth.jpg"; // or .png
 
 
 const Hero = () => {
